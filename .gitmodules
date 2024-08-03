@@ -13,3 +13,7 @@
 [submodule "CrScreenshotDxe"]
 	path = CrScreenshotDxe
 	url = https://github.com/LongSoft/CrScreenshotDxe.git
+[submodule "NvStrapsReBar"]
+	path = NvStrapsReBar
+	url = https://github.com/6d6178667269747a/NvStrapsReBar.git
+	branch = fix-linux-build2

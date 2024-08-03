@@ -725,6 +725,7 @@
   MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe.inf
   UefiPayloadPkg/BlSupportDxe/BlSupportDxe.inf
   CrScreenshotDxe/CrScreenshotDxe.inf
+  NvStrapsReBar/ReBarDxe/ReBarDxe.inf
 
   #
   # SMBIOS Support
